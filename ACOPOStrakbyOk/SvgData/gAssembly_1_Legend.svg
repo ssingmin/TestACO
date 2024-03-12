@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-0.1 -0.1 1.77 1.49">
+	<defs/>
+	<g>
+		<g id="segments">
+			<g id="sg_legend">
+				<g id="sg_legend_1">
+					<g id="gleg_frame_1">
+						<rect id="rsgleg_frame_1" x="0.10000000000000001" y="0.050000000000000086" width="0.66000000000000003" height="1.1900000000000002" style="fill:none;stroke:grey;stroke-width:0.005"/>
+					</g>
+					<g id="gsgleg_Seg_A_1">
+						<rect id="rsgleg_Seg_A_1" x="0.10000000000000001" y="0.12000000000000009" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_1" x="0.20000000000000001" y="0.16500000000000009" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">0</text>
+						<text id="tsgleg_2_Seg_A_1" x="0.43000000000000005" y="0.16500000000000009" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_1</text>
+						<text id="tsgleg_3_Seg_A_1" x="0.66000000000000003" y="0.16500000000000009" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 15</text>
+					</g>
+					<g id="gsgleg_Seg_A_2">
+						<rect id="rsgleg_Seg_A_2" x="0.10000000000000001" y="0.19000000000000011" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_2" x="0.20000000000000001" y="0.2350000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">1</text>
+						<text id="tsgleg_2_Seg_A_2" x="0.43000000000000005" y="0.2350000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_2</text>
+						<text id="tsgleg_3_Seg_A_2" x="0.66000000000000003" y="0.2350000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 14</text>
+					</g>
+					<g id="gsgleg_Seg_A_3">
+						<rect id="rsgleg_Seg_A_3" x="0.10000000000000001" y="0.26000000000000012" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_3" x="0.20000000000000001" y="0.3050000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">2</text>
+						<text id="tsgleg_2_Seg_A_3" x="0.43000000000000005" y="0.3050000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_3</text>
+						<text id="tsgleg_3_Seg_A_3" x="0.66000000000000003" y="0.3050000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 11</text>
+					</g>
+					<g id="gsgleg_Seg_A_4">
+						<rect id="rsgleg_Seg_A_4" x="0.10000000000000001" y="0.33000000000000013" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_4" x="0.20000000000000001" y="0.37500000000000011" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">3</text>
+						<text id="tsgleg_2_Seg_A_4" x="0.43000000000000005" y="0.37500000000000011" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_4</text>
+						<text id="tsgleg_3_Seg_A_4" x="0.66000000000000003" y="0.37500000000000011" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 10</text>
+					</g>
+					<g id="gsgleg_Seg_A_5">
+						<rect id="rsgleg_Seg_A_5" x="0.10000000000000001" y="0.40000000000000013" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_5" x="0.20000000000000001" y="0.44500000000000012" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">4</text>
+						<text id="tsgleg_2_Seg_A_5" x="0.43000000000000005" y="0.44500000000000012" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_5</text>
+						<text id="tsgleg_3_Seg_A_5" x="0.66000000000000003" y="0.44500000000000012" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 9</text>
+					</g>
+					<g id="gsgleg_Seg_A_6">
+						<rect id="rsgleg_Seg_A_6" x="0.10000000000000001" y="0.47000000000000014" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_6" x="0.20000000000000001" y="0.51500000000000012" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">5</text>
+						<text id="tsgleg_2_Seg_A_6" x="0.43000000000000005" y="0.51500000000000012" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_6</text>
+						<text id="tsgleg_3_Seg_A_6" x="0.66000000000000003" y="0.51500000000000012" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 8</text>
+					</g>
+					<g id="gsgleg_Seg_A_7">
+						<rect id="rsgleg_Seg_A_7" x="0.10000000000000001" y="0.54000000000000015" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_7" x="0.20000000000000001" y="0.58500000000000019" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">6</text>
+						<text id="tsgleg_2_Seg_A_7" x="0.43000000000000005" y="0.58500000000000019" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_7</text>
+						<text id="tsgleg_3_Seg_A_7" x="0.66000000000000003" y="0.58500000000000019" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 3</text>
+					</g>
+					<g id="gsgleg_Seg_A_8">
+						<rect id="rsgleg_Seg_A_8" x="0.10000000000000001" y="0.6100000000000001" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_8" x="0.20000000000000001" y="0.65500000000000014" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">7</text>
+						<text id="tsgleg_2_Seg_A_8" x="0.43000000000000005" y="0.65500000000000014" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_8</text>
+						<text id="tsgleg_3_Seg_A_8" x="0.66000000000000003" y="0.65500000000000014" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 4</text>
+					</g>
+					<g id="gsgleg_Seg_A_9">
+						<rect id="rsgleg_Seg_A_9" x="0.10000000000000001" y="0.68000000000000016" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_9" x="0.20000000000000001" y="0.7250000000000002" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">8</text>
+						<text id="tsgleg_2_Seg_A_9" x="0.43000000000000005" y="0.7250000000000002" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_9</text>
+						<text id="tsgleg_3_Seg_A_9" x="0.66000000000000003" y="0.7250000000000002" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 5</text>
+					</g>
+					<g id="gsgleg_Seg_A_10">
+						<rect id="rsgleg_Seg_A_10" x="0.10000000000000001" y="0.75000000000000011" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_10" x="0.20000000000000001" y="0.79500000000000015" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">9</text>
+						<text id="tsgleg_2_Seg_A_10" x="0.43000000000000005" y="0.79500000000000015" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_10</text>
+						<text id="tsgleg_3_Seg_A_10" x="0.66000000000000003" y="0.79500000000000015" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 6</text>
+					</g>
+					<g id="gsgleg_Seg_A_11">
+						<rect id="rsgleg_Seg_A_11" x="0.10000000000000001" y="0.82000000000000006" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_11" x="0.20000000000000001" y="0.8650000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">10</text>
+						<text id="tsgleg_2_Seg_A_11" x="0.43000000000000005" y="0.8650000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_11</text>
+						<text id="tsgleg_3_Seg_A_11" x="0.66000000000000003" y="0.8650000000000001" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 13</text>
+					</g>
+					<g id="gsgleg_Seg_A_12">
+						<rect id="rsgleg_Seg_A_12" x="0.10000000000000001" y="0.89000000000000012" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_12" x="0.20000000000000001" y="0.93500000000000016" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">11</text>
+						<text id="tsgleg_2_Seg_A_12" x="0.43000000000000005" y="0.93500000000000016" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_12</text>
+						<text id="tsgleg_3_Seg_A_12" x="0.66000000000000003" y="0.93500000000000016" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 12</text>
+					</g>
+					<g id="gsgleg_Seg_A_13">
+						<rect id="rsgleg_Seg_A_13" x="0.10000000000000001" y="0.96000000000000019" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_13" x="0.20000000000000001" y="1.0050000000000003" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">12</text>
+						<text id="tsgleg_2_Seg_A_13" x="0.43000000000000005" y="1.0050000000000003" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_13</text>
+						<text id="tsgleg_3_Seg_A_13" x="0.66000000000000003" y="1.0050000000000003" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 7</text>
+					</g>
+					<g id="gsgleg_Seg_A_14">
+						<rect id="rsgleg_Seg_A_14" x="0.10000000000000001" y="1.0300000000000002" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_14" x="0.20000000000000001" y="1.0750000000000002" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">13</text>
+						<text id="tsgleg_2_Seg_A_14" x="0.43000000000000005" y="1.0750000000000002" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_14</text>
+						<text id="tsgleg_3_Seg_A_14" x="0.66000000000000003" y="1.0750000000000002" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 2</text>
+					</g>
+					<g id="gsgleg_Seg_A_15">
+						<rect id="rsgleg_Seg_A_15" x="0.10000000000000001" y="1.1000000000000001" width="0.66000000000000003" height="0.070000000000000007" style="fill:white"/>
+						<text id="tsgleg_1_Seg_A_15" x="0.20000000000000001" y="1.145" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">14</text>
+						<text id="tsgleg_2_Seg_A_15" x="0.43000000000000005" y="1.145" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_15</text>
+						<text id="tsgleg_3_Seg_A_15" x="0.66000000000000003" y="1.145" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 16</text>
+					</g>
+					<g id="gsgleg_Seg_A_16">
+						<rect id="rsgleg_Seg_A_16" x="0.10000000000000001" y="1.1700000000000002" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke"/>
+						<text id="tsgleg_1_Seg_A_16" x="0.20000000000000001" y="1.2150000000000003" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">15</text>
+						<text id="tsgleg_2_Seg_A_16" x="0.43000000000000005" y="1.2150000000000003" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey">Seg_A_16</text>
+						<text id="tsgleg_3_Seg_A_16" x="0.66000000000000003" y="1.2150000000000003" text-anchor="middle" font-size="0.040000000000000001" style="fill:grey"> NN 17</text>
+					</g>
+					<g id="gsgleg_headings2_1">
+						<rect id="rsgleg_headings2_1" x="0.10000000000000001" y="0.050000000000000086" width="0.66000000000000003" height="0.070000000000000007" style="fill:whitesmoke;stroke:grey;stroke-width:0.005"/>
+						<text id="tsgleg_1_headings2_1" x="0.20000000000000001" y="0.095000000000000084" text-anchor="middle" font-size="0.040000000000000001" font-weight="bold" style="fill:grey">Index</text>
+						<text id="tsgleg_2_headings2_1" x="0.43000000000000005" y="0.095000000000000084" text-anchor="middle" font-size="0.040000000000000001" font-weight="bold" style="fill:grey">Name</text>
+						<text id="tsgleg_3_headings2_1" x="0.66000000000000003" y="0.095000000000000084" text-anchor="middle" font-size="0.040000000000000001" font-weight="bold" style="fill:grey">Node no.</text>
+					</g>
+					<g id="gsgleg_headings1_1">
+						<rect id="rsgleg_headings1_1" x="0.10000000000000001" y="-0.019999999999999921" width="0.66000000000000003" height="0.070000000000000007" style="fill:grey;stroke:grey;stroke-width:0.005"/>
+						<text id="tsgleg_headings1_1" x="0.43000000000000005" y="0.035000000000000087" text-anchor="middle" font-size="0.050000000000000003" font-weight="bold" style="fill:white"> Segments</text>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="sectors">
+			<g id="sc_legend">
+				<g id="sc_legend_1">
+					<g id="gscleg_frame_1">
+						<rect id="rscleg_frame_1" x="0.91000000000000003" y="0.050000000000000086" width="0.56000000000000005" height="0.14000000000000001" style="fill:none;stroke:grey;stroke-width:0.005"/>
+					</g>
+					<g id="gscleg_SectorTrackA">
+						<rect id="rscleg_SectorTrackA" x="0.91000000000000003" y="0.12000000000000009" width="0.56000000000000005" height="0.070000000000000007" style="fill:white"/>
+						<text id="tscleg_1_SectorTrackA" x="1.01" y="0.16500000000000009" text-anchor="middle" font-size="0.040000000000000001" style="fill:orange">0</text>
+						<text id="tscleg_2_SectorTrackA" x="1.29" y="0.16500000000000009" text-anchor="middle" font-size="0.040000000000000001" style="fill:orange">SectorTrackA</text>
+					</g>
+					<g id="gscleg_headings2_1">
+						<rect id="rscleg_headings2_1" x="0.91000000000000003" y="0.050000000000000086" width="0.56000000000000005" height="0.070000000000000007" style="fill:whitesmoke;stroke:grey;stroke-width:0.005"/>
+						<text id="tscleg_1_headings2_1" x="1.01" y="0.095000000000000084" text-anchor="middle" font-size="0.040000000000000001" font-weight="bold" style="fill:grey">Index</text>
+						<text id="tscleg_2_headings2_1" x="1.29" y="0.095000000000000084" text-anchor="middle" font-size="0.040000000000000001" font-weight="bold" style="fill:grey">Name</text>
+					</g>
+					<g id="gscleg_headings1_1">
+						<rect id="rscleg_headings1_1" x="0.91000000000000003" y="-0.019999999999999921" width="0.56000000000000005" height="0.070000000000000007" style="fill:grey;stroke:grey;stroke-width:0.005"/>
+						<text id="tscleg_headings1_1" x="1.1899999999999999" y="0.035000000000000087" text-anchor="middle" font-size="0.050000000000000003" font-weight="bold" style="fill:white"> Sectors</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

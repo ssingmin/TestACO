@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-2.70617 -0.745 3.43235 0.86">
+	<defs/>
+	<g>
+		<g id="workspace">
+			<g id="gws_edge_0">
+				<polyline id="ews_0" points="0,0.015 -0.0253846,0.015 -0.0507692,0.015 -0.0761538,0.015 -0.101538,0.015 -0.126923,0.015 -0.152308,0.015 -0.177692,0.015 -0.203077,0.015 -0.228462,0.015 -0.253846,0.015 -0.279231,0.015 -0.304615,0.015 -0.33,0.015 -0.355385,0.015 -0.380769,0.015 -0.406154,0.015 -0.431538,0.015 -0.456923,0.015 -0.482308,0.015 -0.507692,0.015 -0.533077,0.015 -0.558462,0.015 -0.583846,0.015 -0.609231,0.015 -0.634615,0.015 -0.66,0.015 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_0" x="-0.0049999999999999984" y="0.0099999999999998701" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_0" x="-0.66500000000000004" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_1">
+				<polyline id="ews_1" points="-0.66,0.015 -0.685385,0.015 -0.710769,0.015 -0.736154,0.015 -0.761538,0.015 -0.786923,0.015 -0.812308,0.015 -0.837692,0.015 -0.863077,0.015 -0.888462,0.015 -0.913846,0.015 -0.939231,0.015 -0.964615,0.015 -0.99,0.015 -1.01538,0.015 -1.04077,0.015 -1.06615,0.015 -1.09154,0.015 -1.11692,0.015 -1.14231,0.015 -1.16769,0.015 -1.19308,0.015 -1.21846,0.015 -1.24385,0.015 -1.26923,0.015 -1.29462,0.015 -1.32,0.015 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_1" x="-0.66500000000000004" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_1" x="-1.325" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_2">
+				<polyline id="ews_2" points="-1.32,0.015 -1.34538,0.015 -1.37077,0.015 -1.39615,0.015 -1.42154,0.015 -1.44692,0.015 -1.47231,0.015 -1.49769,0.015 -1.52308,0.015 -1.54846,0.015 -1.57385,0.015 -1.59923,0.015 -1.62462,0.015 -1.65,0.015 -1.67538,0.015 -1.70077,0.015 -1.72615,0.015 -1.75154,0.015 -1.77692,0.015 -1.80231,0.015 -1.82769,0.015 -1.85308,0.015 -1.87846,0.015 -1.90385,0.015 -1.92923,0.015 -1.95462,0.015 -1.98,0.015 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_2" x="-1.325" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_2" x="-1.9849999999999999" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_3">
+				<polyline id="ews_3" points="-1.98,0.015 -2.00625,0.015 -2.0325,0.015 -2.05875,0.015 -2.085,0.015 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_3" x="-1.9849999999999999" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_3" x="-2.0899999999999999" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_4">
+				<polyline id="ews_4" points="-2.085,0.015 -2.11159,0.014998 -2.1382,0.0149785 -2.16483,0.0149062 -2.1915,0.0147224 -2.21823,0.0143393 -2.24502,0.0136353 -2.2719,0.0124499 -2.29887,0.010579 -2.3259,0.00777312 -2.35294,0.003741 -2.37988,-0.00183571 -2.40654,-0.00927109 -2.43268,-0.018825 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_4" x="-2.0899999999999999" y="0.0099999999999999985" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_4" x="-2.4376796944940082" y="-0.023825017724777398" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_5">
+				<polyline id="ews_5" points="-2.43268,-0.018825 -2.45803,-0.0306443 -2.48225,-0.0446277 -2.50516,-0.0606688 -2.52658,-0.0786455 -2.54635,-0.098421 -2.56433,-0.119845 -2.58037,-0.142754 -2.59436,-0.166974 -2.60617,-0.19232 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_5" x="-2.4376796944940082" y="-0.023825017724777398" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_5" x="-2.6111749822752226" y="-0.19732030550599181" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_6">
+				<polyline id="ews_6" points="-2.60617,-0.19232 -2.61574,-0.2186 -2.62298,-0.245614 -2.62783,-0.273156 -2.63027,-0.301017 -2.63027,-0.328983 -2.62783,-0.356844 -2.62298,-0.384386 -2.61574,-0.4114 -2.60617,-0.43768 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_6" x="-2.6111749822752226" y="-0.19732030550599181" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_6" x="-2.6111749822752226" y="-0.44267969449400824" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_7">
+				<polyline id="ews_7" points="-2.60617,-0.43768 -2.59436,-0.463026 -2.58037,-0.487246 -2.56433,-0.510155 -2.54635,-0.531579 -2.52658,-0.551355 -2.50516,-0.569331 -2.48225,-0.585372 -2.45803,-0.599356 -2.43268,-0.611175 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_7" x="-2.6111749822752226" y="-0.44267969449400824" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_7" x="-2.4376796944940082" y="-0.61617498227522272" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_8">
+				<polyline id="ews_8" points="-2.43268,-0.611175 -2.40654,-0.620729 -2.37988,-0.628164 -2.35294,-0.633741 -2.3259,-0.637773 -2.29887,-0.640579 -2.2719,-0.64245 -2.24502,-0.643635 -2.21823,-0.644339 -2.1915,-0.644722 -2.16483,-0.644906 -2.1382,-0.644978 -2.11159,-0.644998 -2.085,-0.645 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_8" x="-2.4376796944940082" y="-0.61617498227522272" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_8" x="-2.0899999999999999" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_9">
+				<polyline id="ews_9" points="-2.085,-0.645 -2.05875,-0.645 -2.0325,-0.645 -2.00625,-0.645 -1.98,-0.645 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_9" x="-2.0899999999999999" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_9" x="-1.9849999999999999" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_10">
+				<polyline id="ews_10" points="-1.98,-0.645 -1.95462,-0.645 -1.92923,-0.645 -1.90385,-0.645 -1.87846,-0.645 -1.85308,-0.645 -1.82769,-0.645 -1.80231,-0.645 -1.77692,-0.645 -1.75154,-0.645 -1.72615,-0.645 -1.70077,-0.645 -1.67538,-0.645 -1.65,-0.645 -1.62462,-0.645 -1.59923,-0.645 -1.57385,-0.645 -1.54846,-0.645 -1.52308,-0.645 -1.49769,-0.645 -1.47231,-0.645 -1.44692,-0.645 -1.42154,-0.645 -1.39615,-0.645 -1.37077,-0.645 -1.34538,-0.645 -1.32,-0.645 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_10" x="-1.9849999999999999" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_10" x="-1.325" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_11">
+				<polyline id="ews_11" points="-1.32,-0.645 -1.29462,-0.645 -1.26923,-0.645 -1.24385,-0.645 -1.21846,-0.645 -1.19308,-0.645 -1.16769,-0.645 -1.14231,-0.645 -1.11692,-0.645 -1.09154,-0.645 -1.06615,-0.645 -1.04077,-0.645 -1.01538,-0.645 -0.99,-0.645 -0.964615,-0.645 -0.939231,-0.645 -0.913846,-0.645 -0.888462,-0.645 -0.863077,-0.645 -0.837692,-0.645 -0.812308,-0.645 -0.786923,-0.645 -0.761538,-0.645 -0.736154,-0.645 -0.710769,-0.645 -0.685385,-0.645 -0.66,-0.645 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_11" x="-1.325" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_11" x="-0.66500000000000026" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_12">
+				<polyline id="ews_12" points="-0.66,-0.645 -0.634615,-0.645 -0.609231,-0.645 -0.583846,-0.645 -0.558462,-0.645 -0.533077,-0.645 -0.507692,-0.645 -0.482308,-0.645 -0.456923,-0.645 -0.431538,-0.645 -0.406154,-0.645 -0.380769,-0.645 -0.355385,-0.645 -0.33,-0.645 -0.304615,-0.645 -0.279231,-0.645 -0.253846,-0.645 -0.228462,-0.645 -0.203077,-0.645 -0.177692,-0.645 -0.152308,-0.645 -0.126923,-0.645 -0.101538,-0.645 -0.0761538,-0.645 -0.0507692,-0.645 -0.0253846,-0.645 -1.89008e-16,-0.645 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_12" x="-0.66500000000000026" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_12" x="-0.0050000000000002057" y="-0.65000000000000024" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_13">
+				<polyline id="ews_13" points="-2.22877e-16,-0.645 0.02625,-0.645 0.0525,-0.645 0.07875,-0.645 0.105,-0.645 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_13" x="-0.0050000000000002057" y="-0.65000000000000024" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_13" x="0.099999999999999756" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_14">
+				<polyline id="ews_14" points="0.105,-0.645 0.131592,-0.644998 0.158197,-0.644978 0.184829,-0.644906 0.2115,-0.644722 0.238227,-0.644339 0.265025,-0.643635 0.291905,-0.64245 0.318868,-0.640579 0.345896,-0.637773 0.372935,-0.633741 0.399877,-0.628164 0.426544,-0.620729 0.45268,-0.611175 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_14" x="0.099999999999999756" y="-0.65000000000000013" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_14" x="0.44767969449400807" y="-0.61617498227522283" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_15">
+				<polyline id="ews_15" points="0.45268,-0.611175 0.478026,-0.599356 0.502246,-0.585372 0.525155,-0.569331 0.546579,-0.551355 0.566355,-0.531579 0.584331,-0.510155 0.600372,-0.487246 0.614356,-0.463026 0.626175,-0.43768 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_15" x="0.44767969449400807" y="-0.61617498227522283" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_15" x="0.6211749822752225" y="-0.44267969449400846" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_16">
+				<polyline id="ews_16" points="0.626175,-0.43768 0.63574,-0.4114 0.642979,-0.384386 0.647835,-0.356844 0.650272,-0.328983 0.650272,-0.301017 0.647835,-0.273156 0.642979,-0.245614 0.63574,-0.2186 0.626175,-0.19232 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_16" x="0.6211749822752225" y="-0.44267969449400846" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_16" x="0.6211749822752225" y="-0.19732030550599203" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_17">
+				<polyline id="ews_17" points="0.626175,-0.19232 0.614356,-0.166974 0.600372,-0.142754 0.584331,-0.119845 0.566355,-0.098421 0.546579,-0.0786455 0.525155,-0.0606688 0.502246,-0.0446277 0.478026,-0.0306443 0.45268,-0.018825 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_17" x="0.6211749822752225" y="-0.19732030550599203" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_17" x="0.44767969449400813" y="-0.023825017724777669" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_18">
+				<polyline id="ews_18" points="0.45268,-0.018825 0.426544,-0.00927109 0.399877,-0.00183571 0.372935,0.003741 0.345896,0.00777312 0.318868,0.010579 0.291905,0.0124499 0.265025,0.0136353 0.238227,0.0143393 0.2115,0.0147224 0.184829,0.0149062 0.158197,0.0149785 0.131592,0.014998 0.105,0.015 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_18" x="0.44767969449400813" y="-0.023825017724777669" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_18" x="0.099999999999999978" y="0.0099999999999997313" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+			<g id="gws_edge_19">
+				<polyline id="ews_19" points="2.66964e-18,0.015 0.02625,0.015 0.0525,0.015 0.07875,0.015 0.105,0.015 " stroke-width="0.0050000000000000001" style="stroke:pink;fill:none"/>
+				<rect id="vsws_19" x="-0.0049999999999999984" y="0.0099999999999998701" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+				<rect id="vtws_19" x="0.099999999999999978" y="0.0099999999999997313" width="0.01" height="0.01" style="fill:red;stroke-width:0"/>
+			</g>
+		</g>
+		<g id="barriers">
+			<g id="sg_barriers">
+				<g id="sgba_0">
+					<polyline points="0.009,0.024 -1e-10,0.024 -1e-10,0.006 0.0045,0.006 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_1">
+					<polyline points="-0.669,0.006 -0.66,0.006 -0.66,0.024 -0.6645,0.024 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_2">
+					<polyline points="-0.651,0.024 -0.66,0.024 -0.66,0.006 -0.6555,0.006 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_3">
+					<polyline points="-1.329,0.006 -1.32,0.006 -1.32,0.024 -1.3245,0.024 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_4">
+					<polyline points="-1.311,0.024 -1.32,0.024 -1.32,0.006 -1.3155,0.006 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_5">
+					<polyline points="-1.989,0.006 -1.98,0.006 -1.98,0.024 -1.9845,0.024 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_6">
+					<polyline points="-1.971,0.024 -1.98,0.024 -1.98,0.006 -1.9755,0.006 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_7">
+					<polyline points="-2.43755,-0.0305841 -2.42924,-0.0271399 -2.43612,-0.0105101 -2.44028,-0.0122322 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_8">
+					<polyline points="-2.42781,-0.00706595 -2.43612,-0.0105101 -2.42924,-0.0271399 -2.42508,-0.0254179 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_9">
+					<polyline points="-2.6013,-0.204079 -2.59786,-0.195764 -2.61449,-0.188876 -2.61621,-0.193034 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_10">
+					<polyline points="-2.61105,-0.180561 -2.61449,-0.188876 -2.59786,-0.195764 -2.59614,-0.191607 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_11">
+					<polyline points="-2.59442,-0.44255 -2.59786,-0.434236 -2.61449,-0.441124 -2.61277,-0.445281 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_12">
+					<polyline points="-2.61793,-0.432809 -2.61449,-0.441124 -2.59786,-0.434236 -2.59958,-0.430078 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_13">
+					<polyline points="-2.42092,-0.606304 -2.42924,-0.60286 -2.43612,-0.61949 -2.43197,-0.621212 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_14">
+					<polyline points="-2.44444,-0.616046 -2.43612,-0.61949 -2.42924,-0.60286 -2.43339,-0.601138 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_15">
+					<polyline points="-1.971,-0.636 -1.98,-0.636 -1.98,-0.654 -1.9755,-0.654 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_16">
+					<polyline points="-1.989,-0.654 -1.98,-0.654 -1.98,-0.636 -1.9845,-0.636 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_17">
+					<polyline points="-1.311,-0.636 -1.32,-0.636 -1.32,-0.654 -1.3155,-0.654 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_18">
+					<polyline points="-1.329,-0.654 -1.32,-0.654 -1.32,-0.636 -1.3245,-0.636 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_19">
+					<polyline points="-0.651,-0.636 -0.66,-0.636 -0.66,-0.654 -0.6555,-0.654 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_20">
+					<polyline points="-0.669,-0.654 -0.66,-0.654 -0.66,-0.636 -0.6645,-0.636 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_21">
+					<polyline points="0.009,-0.636 -1e-10,-0.636 -1e-10,-0.654 0.0045,-0.654 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_22">
+					<polyline points="-0.009,-0.654 9.99998e-11,-0.654 9.99998e-11,-0.636 -0.0045,-0.636 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_23">
+					<polyline points="0.45755,-0.599416 0.449236,-0.60286 0.456124,-0.61949 0.460281,-0.617768 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_24">
+					<polyline points="0.447809,-0.622934 0.456124,-0.61949 0.449236,-0.60286 0.445078,-0.604582 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_25">
+					<polyline points="0.621304,-0.425921 0.61786,-0.434236 0.63449,-0.441124 0.636212,-0.436966 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_26">
+					<polyline points="0.631046,-0.449439 0.63449,-0.441124 0.61786,-0.434236 0.616138,-0.438393 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_27">
+					<polyline points="0.614416,-0.18745 0.61786,-0.195764 0.63449,-0.188876 0.632768,-0.184719 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_28">
+					<polyline points="0.637934,-0.197191 0.63449,-0.188876 0.61786,-0.195764 0.619582,-0.199922 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_29">
+					<polyline points="0.440921,-0.0236958 0.449236,-0.0271399 0.456124,-0.0105101 0.451966,-0.00878803 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_30">
+					<polyline points="0.464439,-0.0139543 0.456124,-0.0105101 0.449236,-0.0271399 0.453393,-0.028862 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+				<g id="sgba_31">
+					<polyline points="-0.009,0.006 1e-10,0.006 1e-10,0.024 -0.0045,0.024 " stroke="lightgrey" fill="none" style="stroke-width:0.004"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
